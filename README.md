@@ -3,6 +3,8 @@
 Oh boy, this one's a doozy
 
 https://arxiv.org/abs/1602.06208v2
+https://arxiv.org/abs/1706.10206
+https://www.youtube.com/watch?v=OKhacWQ2fCs
 
 There is a study by JAVIER CILLERUELO, FLORIAN LUCA, AND LEWIS BAXTER (linked above) which says any positive integer of g >= 5 can be written as the sum of 3 palindrome numbers with base g.
 
